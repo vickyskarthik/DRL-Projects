@@ -28,24 +28,28 @@ The repository contains material related to Udacity's Deep Reinforcement Learnin
 
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
 Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+
 Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+
 Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
-Instructions
+# Instructions
 Follow the instructions in Navigation.ipynb to get started with training your own agent!
 
 # Obtained Output
 ![Output](https://github.com/vickyskarthik/DRL-Projects/blob/master/banana_dqn.png)
 
-Environment solved in 430 episodes <br />     
-Average Score: 13.00 <br />
-Total Training time = 11.4 min<br /> 
+Environment solved in 430 episodes 
+Average Score: 13.00
+Total Training time = 11.4 minutes
 
 
 # Future Works
-So far the agent is trained only using DQN which can also be implemented using Double DQN and Pritorized Experience Replay and Dueling DQN to increase their performance.  
+So far the agent is trained only using DQN which can also be implemented using Double DQN and Pritorized Experience Replay and Dueling DQN to increase their performance.   
+Also in this attempt the agent interacted with the environment but the agent can be trained using raw pixels from the environment as input.
 
 # Reference
 [1] Juliani, A., Berges, V., Vckay, E., Gao, Y., Henry, H., Mattar, M., Lange, D. (2018). Unity: A General Platform for Intelligent Agents. [arXiv preprint arXiv:1809.02627.] (https://github.com/Unity-Technologies/ml-agents)
