@@ -39,11 +39,12 @@ Follow the instructions in Navigation.ipynb to get started with training your ow
 # Obtained Output
 ![Output](https://github.com/vickyskarthik/DRL-Projects/blob/master/banana_dqn.png)
 
-Environment solved in 430 episodes     
-Average Score: 13.00
-Total Training time = 11.4 min
+Environment solved in 430 episodes <br />     
+Average Score: 13.00 <br />
+Total Training time = 11.4 min<br />
 
 # Reference
 [1] Juliani, A., Berges, V., Vckay, E., Gao, Y., Henry, H., Mattar, M., Lange, D. (2018). Unity: A General Platform for Intelligent Agents. [arXiv preprint arXiv:1809.02627.] (https://github.com/Unity-Technologies/ml-agents)
+
 [2] R. S. Sutton and A. G. Barto, Introduction to Reinforcement Learning, 2nd ed. Cambridge, MA, USA: MIT Press, 2017
 
