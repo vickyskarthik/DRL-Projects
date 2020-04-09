@@ -37,7 +37,7 @@ Instructions
 Follow the instructions in Navigation.ipynb to get started with training your own agent!
 
 # Obtained Output
-![Output](relative/path/to/img.jpg?raw=true "Title")
+![](https://github.com/vickyskarthik/DRL-Projects/blob/master/banana_dqn.png "Output using DQN")
 
 # Reference
 [1] Juliani, A., Berges, V., Vckay, E., Gao, Y., Henry, H., Mattar, M., Lange, D. (2018). Unity: A General Platform for Intelligent Agents. [arXiv preprint arXiv:1809.02627.] (https://github.com/Unity-Technologies/ml-agents)
