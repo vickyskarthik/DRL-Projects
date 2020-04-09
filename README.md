@@ -23,7 +23,7 @@ A cheat sheet is provided by Udacity for studing reinforcement learning.
 This repo has 3 code files – model.py, dqn_agent.py and Navigation.ipynb
 
 # Getting started
-#Installation requirements
+# Installation requirements
 The repository contains material related to Udacity's Deep Reinforcement Learning Nanodegree program.
 
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
@@ -36,7 +36,10 @@ Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and
 Instructions
 Follow the instructions in Navigation.ipynb to get started with training your own agent!
 
-## Reference
+# Obtained Output
+![Output](relative/path/to/img.jpg?raw=true "Title")
+
+# Reference
 [1] Juliani, A., Berges, V., Vckay, E., Gao, Y., Henry, H., Mattar, M., Lange, D. (2018). Unity: A General Platform for Intelligent Agents. [arXiv preprint arXiv:1809.02627.] (https://github.com/Unity-Technologies/ml-agents)
 [2] R. S. Sutton and A. G. Barto, Introduction to Reinforcement Learning, 2nd ed. Cambridge, MA, USA: MIT Press, 2017
 
