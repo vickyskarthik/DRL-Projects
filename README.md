@@ -41,7 +41,11 @@ Follow the instructions in Navigation.ipynb to get started with training your ow
 
 Environment solved in 430 episodes <br />     
 Average Score: 13.00 <br />
-Total Training time = 11.4 min<br />
+Total Training time = 11.4 min<br /> 
+
+
+# Future Works
+So far the agent is trained only using DQN which can also be implemented using Double DQN and Pritorized Replay.  
 
 # Reference
 [1] Juliani, A., Berges, V., Vckay, E., Gao, Y., Henry, H., Mattar, M., Lange, D. (2018). Unity: A General Platform for Intelligent Agents. [arXiv preprint arXiv:1809.02627.] (https://github.com/Unity-Technologies/ml-agents)
