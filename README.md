@@ -46,9 +46,9 @@ Environment solved in 430 episodes
 Average Score: 13.00
 Total Training time = 11.4 minutes
 
-[score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn.png)
+![score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn.png)
 
-[score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn2.png)
+![score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn2.png)
 
 
 # Future Works
