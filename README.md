@@ -46,6 +46,10 @@ Environment solved in 430 episodes
 Average Score: 13.00
 Total Training time = 11.4 minutes
 
+[score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn.png)
+
+[score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn2.png)
+
 
 # Future Works
 So far the agent is trained only using DQN which can also be implemented using Double DQN and Pritorized Experience Replay and Dueling DQN to increase their performance.   
