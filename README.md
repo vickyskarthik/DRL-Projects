@@ -40,13 +40,11 @@ Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and
 Follow the instructions in Navigation.ipynb to get started with training your own agent!
 
 # Obtained Output
-![Output](https://github.com/vickyskarthik/DRL-Projects/blob/master/banana_dqn.png)
+![score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn.png)
 
 Environment solved in 430 episodes 
 Average Score: 13.00
 Total Training time = 11.4 minutes
-
-![score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn.png)
 
 ![score](https://github.com/vickyskarthik/DRL-Projects/blob/master/output/score_vs_episodes_dqn2.png)
 
